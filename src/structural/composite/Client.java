@@ -1,5 +1,9 @@
 package structural.composite;
 
+/*
+Composite design pattern helps to compose the objects into tree structures to represent whole-part hierarchies.
+Composite lets clients treat individual objects and compositions of objects uniformly.
+ */
 public class Client
 {
     public static void main(String[] args)
