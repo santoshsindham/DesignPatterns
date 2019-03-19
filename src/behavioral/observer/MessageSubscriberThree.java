@@ -1,6 +1,6 @@
 package behavioral.observer;
 
-public class MessageSubscriberThree implements Observer
+public class MessageSubscriberThree implements ObserverNew
 {
     @Override
     public void update(Message m) {
