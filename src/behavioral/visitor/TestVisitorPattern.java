@@ -2,6 +2,10 @@ package behavioral.visitor;
 
 import junit.framework.TestCase;
 
+/*
+Visitor pattern is used when we want a hierarchy of objects to modify their behavior but without modifying their source code.
+
+ */
 public class TestVisitorPattern extends TestCase
 {
     private MacConfigurator macConfigurator;
